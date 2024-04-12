@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B9C772A8-CD69-4990-8A6E-7C31CEC31E72}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.055967B6-A6A5-4EC6-B0E8-E076AE6453F0" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KeyboardViewTest" expanded="True">
+            <Node name="KeyboardViewTest" expanded="True">
+              <Node name="Platforms" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sts/Projects/KeyboardViewTest/KeyboardViewTest/Platforms/iOS/KeyboardViewRenderer.cs" relfile="KeyboardViewTest/Platforms/iOS/KeyboardViewRenderer.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.KeyboardViewTest PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.055967B6-A6A5-4EC6-B0E8-E076AE6453F0" />
+</Properties>
